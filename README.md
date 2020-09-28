@@ -1,16 +1,21 @@
-### Hi there 👋
+# Developer STORM
 
-<!--
-**AOStormDev/AOStormDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language
+![Python](/img/python.svg)
+![JavaScript](/img/javascript.svg)
 
-Here are some ideas to get you started:
+## UseProgram
+![Discord](/img/discord.svg)
+![Flask](/img/flask.svg)
+![VSC](/img/vsc.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [FreeAI](https://freeai.me/invite)
+- [Overwatch-Api-Module](https://github.com/AOStormDev/Overwatch-API)
+- [School-Infos](https://github.com/AOStormDev/SchoolInfos)
+- [School-Meals](https://github.com/AOStormDev/SchoolMeal)
+
+## Contacts
+- [Email](mailto:storm@stormdev.club)
+- STORM#9999 - [Discord](https://invite.gg/freeai)
+- [Github](https://github.com/AODevStorm)
