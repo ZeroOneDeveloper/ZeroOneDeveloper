@@ -17,5 +17,5 @@
 
 ## Contacts
 - [Email](mailto:storm@stormdev.club)
-- STORM#9999 - [Discord](https://invite.gg/freeai)
+- [STORM#9999](https://invite.gg/freeai)
 - [Github](https://github.com/AODevStorm)
