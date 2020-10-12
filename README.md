@@ -21,4 +21,4 @@
 - [Github](https://github.com/AODevStorm)
 
 ## Stack
-[!Storm's Stack](https://github-readme-stats.vercel.app/api?username=AOStormDev)](https://github.com/AOStormDev)
+[![Storm's Stack](https://github-readme-stats.vercel.app/api?username=AOStormDev)](https://github.com/AOStormDev)
