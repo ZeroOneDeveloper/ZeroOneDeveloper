@@ -11,14 +11,13 @@
 
 ## My Projects
 - [FreeAI](https://freeai.me/invite)
-- [Overwatch-Api-Module](https://github.com/AOStormDev/Overwatch-API)
-- [School-Infos](https://github.com/AOStormDev/SchoolInfos)
-- [School-Meals](https://github.com/AOStormDev/SchoolMeal)
+- [KDSL](https://koreaserver.me)
+- [Uniquebots](https://uniquebots.kr)
 
 ## Contacts
 - [Email](mailto:storm@stormdev.club)
-- [STORM#9999](https://invite.gg/freeai)
-- [Github](https://github.com/AODevStorm)
+- [STORM#0001](https://discord.com/users/299895531701010442)
+- [Github](https://github.com/UniqueDevStorm)
 
 ## Stack
-[![Storm's Stack](https://github-readme-stats.vercel.app/api?username=AOStormDev)](https://github.com/AOStormDev)
+[![Storm's Stack](https://github-readme-stats.vercel.app/api?username=UniqueDevStorm)](https://github.com/UniqueDevStorm)
