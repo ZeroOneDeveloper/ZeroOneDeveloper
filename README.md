@@ -16,7 +16,7 @@
 
 ## Contacts
 - [storm@uniquecode.team](mailto:storm@uniquecode.team)
-- [STORM#0001](https://discord.com/users/299895531701010442)
+- [_STORM#9999](https://discord.com/users/299895531701010442)
 - [Github](https://github.com/UniqueDevStorm)
 
 ## Stack
