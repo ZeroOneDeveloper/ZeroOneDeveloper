@@ -15,7 +15,7 @@
 - [Uniquebots](https://uniquebots.kr)
 
 ## Contacts
-- [storm@uniquecode.team](mailto:storm@uniquecode.team)
+- [me@stormdev.club](mailto:me@stormdev.club)
 - [_STORM#9999](https://discord.com/users/299895531701010442)
 - [Github](https://github.com/UniqueDevStorm)
 
