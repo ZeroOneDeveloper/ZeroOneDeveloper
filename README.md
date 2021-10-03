@@ -1,23 +1,28 @@
-# Developer STORM
+<p>
+  <a href="http://blog.devstorm.kr" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://discord.com/users/299895531701010442" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" /></a>
+  <a href="mailto:me@devstorm.kr" target="_blank"><img src="https://img.shields.io/badge/me@devstorm.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-## Language
-![Python](/img/python.svg)
-![JavaScript](/img/javascript.svg)
+<p>
+  👋&nbsp; Hi there! I'm backend & frontend developer!<br />
+  Also, I'm learning design, <br />
+  and sometimes I'm drawing illustrations!
+</p>
 
-## UseProgram
-![Discord](/img/discord.svg)
-![Flask](/img/flask.svg)
-![VSC](/img/vsc.svg)
+### 💪 Skills
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
+</p>
 
-## My Projects
-- [FreeAI](https://freeai.me/invite)
-- [KDSL](https://koreaserver.me)
-- [Uniquebots](https://uniquebots.kr)
-
-## Contacts
-- [me@devstorm.kr](mailto:me@devstorm.kr)
-- [_STORM#9999](https://discord.com/users/299895531701010442)
-- [Github](https://github.com/UniqueDevStorm)
-
-## Stack
-[![Storm's Stack](https://github-readme-stats.vercel.app/api?username=UniqueDevStorm)](https://github.com/UniqueDevStorm)
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/WebStorm-67CCD7?style=flat-square&logo=WebStorm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyCharm-7AD78A?style=flat-square&logo=PyCharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/>
+</p>
