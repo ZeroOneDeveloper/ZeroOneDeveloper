@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/>
+  <img src="https://img.shields.io/badge/WSL-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/>
 </p>
 
 ![UniqueDevStorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniqueDevStorm&show_icons=true&theme=radical)
