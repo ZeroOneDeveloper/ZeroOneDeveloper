@@ -1,7 +1,7 @@
 <p>
   <a href="http://blog.devstorm.kr" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://discord.com/users/299895531701010442" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" /></a>
-  <a href="mailto:me@devstorm.kr" target="_blank"><img src="https://img.shields.io/badge/me@devstorm.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:me@devstorm.kr" target="_blank"><img src="https://img.shields.io/badge/me@devstorm.kr-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
 </p>
 
 <p>
