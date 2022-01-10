@@ -10,6 +10,18 @@
   and sometimes I'm drawing illustrations!
 </p>
 
+```py
+import datetime
+
+class Me:
+    def __init__(self):
+        self.name = "Chanwoo Song"
+        self.age = 17
+        self.birthday = datetime.datetime(2006, 12, 16)
+        self.phoneNumber = "01054987416"
+        self.email = "me@devstorm.kr"
+```
+
 ### 💪 Skills
 #### Languages
 <p>
