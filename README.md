@@ -40,7 +40,7 @@ class Me:
   <img src="https://img.shields.io/badge/WSL-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/>
 </p>
 
-![UniqueDevStorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniqueDevStorm&show_icons=true&theme=radical)
+![UniqueDevStorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroOneDeveloper&show_icons=true&theme=radical)
 
 
 ### My solved.ac stats!
