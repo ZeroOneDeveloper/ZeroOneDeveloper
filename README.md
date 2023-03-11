@@ -16,10 +16,9 @@ import datetime
 class Me:
     def __init__(self):
         self.name = "Chanwoo Song"
-        self.age = 17
+        self.age = 18
         self.birthday = datetime.datetime(2006, 12, 16)
-        self.phoneNumber = "01054987416"
-        self.email = "me@devstorm.kr"
+        self.email = "me@zero0ne.dev"
 ```
 
 ### 💪 Skills
