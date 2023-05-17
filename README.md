@@ -43,4 +43,4 @@ class Me:
 
 
 ### My solved.ac stats!
-![응애 나 아기 초보](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevStorm)
+[![응애 나 아기 초보](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevStorm)](https://solved.ac/profile/DevStorm)
