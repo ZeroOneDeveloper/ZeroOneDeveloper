@@ -39,8 +39,8 @@ class Me:
   <img src="https://img.shields.io/badge/WSL-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/>
 </p>
 
-![UniqueDevStorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroOneDeveloper&show_icons=true&theme=radical)
+![ZerOne's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroOneDeveloper)
 
 
 ### My solved.ac stats!
-[![응애 나 아기 초보](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevStorm)](https://solved.ac/profile/DevStorm)
+[![응애 나 아기 초보](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevZerOne)](https://solved.ac/profile/DevZerOne)
